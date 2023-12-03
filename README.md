@@ -2,7 +2,7 @@
 Description
 This project aims to develop an advanced language translation model that translates text from English to Marathi. Utilizing cutting-edge machine learning techniques, the model is designed to handle the complexities of language translation, focusing on maintaining the nuances and contextual relevance in translations.
 
-#Features
+# Features
 Bilingual Translation: Capable of translating between English and Hindi, addressing both linguistic accuracy and cultural context.
 Custom Transformer Model: Uses a self-designed transformer model (model.py) for effective and efficient translation tasks.
 Dataset Preparation: A dedicated script (dataset.py) for preparing and tokenizing bilingual datasets, ensuring data quality and consistency.
@@ -21,6 +21,6 @@ Usage
 Training the Model
 Run python train.py for the standard training process.
 Use python train_wb.py for an alternative training method.
-#Translating Text
+# Translating Text
 Execute python translate.py followed by the text you want to translate.
 
