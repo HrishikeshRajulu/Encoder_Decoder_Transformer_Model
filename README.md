@@ -1,6 +1,6 @@
 # Encoder_Decoder_Transformer_Model
 Description
-This project aims to develop an advanced language translation model that translates text from English to Marathi. Utilizing cutting-edge machine learning techniques, the model is designed to handle the complexities of language translation, focusing on maintaining the nuances and contextual relevance in translations.
+This project aims to develop an advanced language translation model that translates text from English to Hindi. Utilizing cutting-edge machine learning techniques, the model is designed to handle the complexities of language translation, focusing on maintaining the nuances and contextual relevance in translations.
 
 # Features
 Bilingual Translation: Capable of translating between English and Hindi, addressing both linguistic accuracy and cultural context.
